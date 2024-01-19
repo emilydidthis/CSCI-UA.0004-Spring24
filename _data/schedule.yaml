@@ -1,0 +1,485 @@
+
+schedule:
+  - week_number: 1
+    classes: 
+      - topics: Introduction + Overview
+        due:
+        - "Nothing"
+        files:
+        # - name: what-is-the-internet.pdf
+        #   path: /assets/slides/01_Website-Internet.pdf
+        #   type: slides
+      - topics: Unix
+        due:
+        - "Ed Lesson: Basic Unix Commands"
+        - "Chapter 2: How the Web Works"
+        files:
+        # - name: what-is-the-internet.pdf
+        #   path: /assets/slides/01_Website-Internet.pdf
+        #   type: slides
+      
+  - week_number: 2
+    classes:
+      - topics: Unix + HTML
+        due: 
+        - "Chapter 4: Creating a Simple Page"
+        files:
+        # - name: operating-systems.pdf
+        #   path: /assets/slides/02_Unix.pdf
+        #   type: slides
+      - topics: HTML
+        due: 
+        - "Ed Lesson: HTML Basics"
+        - "[Assignment #1 – Unix](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/01.html) (step by step walkthrough on Ed)"
+        - "Chapter 5: Marking Up Text"
+        files:
+        # - name: operating-systems.pdf
+        #   path: /assets/slides/02_Unix.pdf
+        #   type: slides
+  - week_number: 3
+    classes:
+      - topics: HTML
+        due: 
+        - "Chapter 6: Adding Links"
+        - "Chapter 7: Adding Images"
+        files:
+        # - name: HTML_day-01.pdf
+        #   path: /assets/slides/03_HTML_Day1.pdf
+        #   type: slides
+        # - name: Basic HTML Site
+        #   path: /demos/basic-html/
+        #   type: code
+      - topics: CSS
+        due:
+        - "Ed Lesson: CSS Basics"
+        - "[Assignment #2 – HTML](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/02.html)"
+        - "Chapter 11: Introducing Cascading Style Sheets"
+        - "Chapter 12: Formatting Text"
+        files:
+        # - name: HTML_day-02.pdf
+        #   path: /assets/slides/03_HTML_Day2.pdf
+        #   type: slides
+        # - name: "NYC Website – HTML"
+        #   path: /demos/nyc-website/html-only/
+        #   type: code
+        # - name: "Download: NYC files"
+        #   path: /assets/files/nyc-files.zip
+        #   type: download
+  - week_number: 4
+    classes:
+      - topics: CSS
+        due:
+        - "Ed Lessons: Box Model + Flexbox" 
+        - "Chapter 13: Colors and Backgrounds"
+        - "Chapter 14: Thinking Inside the Box"
+        files:
+        # - name: CSS_day-01.pdf
+        #   path: /assets/slides/04_CSS_Day1.pdf
+        #   type: slides
+        # - name: HTML Errors
+        #   path: /demos/errors.html
+        #   type: code
+        # - name: "NYC Website - CSS"
+        #   path: /demos/nyc-website/
+        #   type: code
+      - topics: CSS
+        due:
+        - "Ed Lesson: CSS Positioning"
+        - "Chapter 15: Floating and Positioning"
+        files:
+        # - name: Paths_Review.pdf
+        #   path: /assets/slides/04_Paths_Review.pdf
+        #   type: slides
+        # - name: Box Model
+        #   path: /demos/box-model/
+        #   type: code
+        # - name: Website with Links
+        #   path: /demos/link-reference/
+        #   type: code
+        # - name: "Download: Root Practice Folder"
+        #   path: /assets/files/root.zip
+        #   type: download
+        # - name: "Download: NYC Website - CSS File"
+        #   path: /assets/files/main.css
+        #   type: download
+  - week_number: 5
+    classes:
+      - topics: "*President's Day*"
+      - topics: Raster Graphics
+        due: 
+        - "[Assignment #3 - CSS](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/03.html)"
+        - "Chapter 23: Web Image Basics"
+        files:
+        # - name: CSS_day-02.pdf
+        #   path: /assets/slides/04_CSS_Day2.pdf 
+        #   type: slides
+        # - name: "Download: Flexbox Files"
+        #   path: /assets/files/flexbox.zip 
+        #   type: download
+        # - name: "Floating Images"
+        #   path: https://codepen.io/emilydidthis/pen/vYvzxmp
+        #   type: external code
+        # - name: "Flexbox Site"
+        #   path: https://codepen.io/emilydidthis/pen/zYyJZxG?editors=1100
+        #   type: external code
+        # - name: Final NYC Site
+        #   path: /demos/nyc-website/
+        #   type: code
+  - week_number: 6
+    classes:
+      - topics: Raster Graphics
+        due:
+        - "Ed Lessons: Photoshop + GIMP"
+        - "Chapter 24: Image Asset Production"
+        # - <a href="https://youtu.be/_L_MMU22bAw?si=yNP4I4ZggVMFo9lm">GIMP in Less Than 10 Minutes</a>
+        # - <a href="https://youtu.be/r1mwj8AH98Y?si=MfLS0Ja3HkLozV1x">Photoshop Tutorial for Beginners</a> 
+
+        files:
+        # - name: RasterGraphics_Day1.pdf
+        #   path: /assets/slides/05_RasterGraphics_Day1.pdf 
+        #   type: slides
+        # - name: Adobe Photoshop Free Trial
+        #   path: https://www.adobe.com/products/photoshop/free-trial-download.html
+        #   type: external code
+        # - name: LaGuardia Student Technology Center
+        #   path: https://www.nyu.edu/life/information-technology/teaching-and-learning-services/studios-and-computing-labs/student-technology-centers-computer-labs/laguardia.html
+        #   type: external code
+        # - name: GNU Image Manipulation Program (GIMP)
+        #   path: https://www.gimp.org/
+        #   type: external code
+        # - name: "Download: Cheeto Cat Files"
+        #   path: /assets/files/cheeto-cat.zip
+        #   type: download
+        # - name: "Download: cheeto-cat.psd"
+        #   path: /assets/files/cheeto-cat.psd
+        #   type: download
+      - topics: Vector Graphics
+        due:
+        - "[Assignment #4 – Raster Graphics](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/04.html)"
+        - "Ed Lessons: XML + SVG Basics"
+        - "Chapter 25: SVG"
+        # - <a href="https://www.youtube.com/watch?v=lOzSiOIipSM">5 Ways To Remove A Background with GIMP</a>
+        # - <a href="https://www.youtube.com/watch?v=WTOFpAfXsSY">How to resize an image in GIMP</a>  
+        files:
+        # - name: RasterGraphics_Day2.pdf
+        #   path: /assets/slides/05_RasterGraphics_Day2.pdf 
+        #   type: slides
+        # - name: "Download: Moon Skater Files"
+        #   path: /assets/files/moon-skater.zip
+        #   type: download
+        # - name: "Moon Skater Site"
+        #   path: /demos/moon-skater/
+        #   type: code
+        # - name: CSS Positioning
+        #   path: https://developer.mozilla.org/en-US/docs/Web/CSS/position
+        #   type: external code
+  - week_number: 7
+    classes:
+      - topics: Vector Graphics
+        due:
+        - "Ed Lessons: Illustrator + Inkscape" 
+        - <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial"> MDN web docs – SVG Tutorial</a>
+
+        files:
+        # - name: VectorGraphics_Day1.pdf
+        #   path: /assets/slides/06_VectorGraphics_Day1.pdf 
+        #   type: slides
+        # - name: XML Document
+        #   path: /demos/svg-practice/cities.xml
+        #   type: code
+        # - name: SVG Exercise 1
+        #   path: /demos/svg-practice/example1.html
+        #   type: code
+        # - name: SVG Exercise 2
+        #   path: /demos/svg-practice/example2.html
+        #   type: code
+        # - name: SVG Exercise Links
+        #   path: /demos/svg-practice/
+        #   type: code          
+
+      - topics: Review
+        due:
+        - "[Assignment #5 – Vector Graphics](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/05.html)"
+        files:
+        # - name: midterm-review-slides.pdf
+        #   path: /assets/slides/07_MidtermReview.pdf
+        #   type: slides
+        # - name: "Download: Unix Maze"
+        #   path: /assets/files/unixMaze.zip
+        #   type: download
+        # - name: "Download: Midterm Website Files"
+        #   path: /assets/files/midterm_review.zip
+        #   type: download
+        # - name: Midterm Practice Final Site
+        #   path: /demos/midterm-review/
+        #   type: code       
+        # - name: Midterm Practice Exam
+        #   path: /assets/files/midterm-practice-qs.pdf
+        #   type: slides
+               
+  - week_number: 8
+    classes:
+      - topics: Midterm Exam
+        due: 
+        files:
+        - name: 
+          path: 
+          type: 
+      - topics: Design + Accessibility
+        due:
+        - "Chapter 3: Some Big Concepts You Need to Know" 
+        files:
+        # - name: Accessibility.pdf
+        #   path: /assets/slides/08_Accessibility.pdf
+        #   type: slides   
+  - week_number: 9
+    classes:
+      - topics: "*Spring Break*"
+      - topics: "*Spring Break*"
+  - week_number: 10
+    classes:
+      - topics: Page Layout
+        due:
+        - "Chapter 16: CSS Layout with Flexbox and Grid" 
+        files:
+        # - name: PageLayout_Day01.pdf
+        #   path: /assets/slides/09_PageLayout.pdf
+        #   type: slides
+        # - name: "Download: CSS Grid Practice Files"
+        #   path: /assets/files/css-grid.zip
+        #   type: download
+        # - name: CSS Grid Exercise 1
+        #   path: /demos/css-grid/grid-exercise-1.html
+        #   type: code
+        # - name: CSS Grid Exercise 2
+        #   path: /demos/css-grid/grid-exercise-2.html
+        #   type: code
+      - topics: Page Layout
+        due:
+        files:
+        # - name: Ghibli Website Wireframes
+        #   path: https://www.figma.com/file/yZC2jiue4tOp05AXxokbIp/Ghibli-Wireframes?type=design&node-id=0%3A1&mode=design&t=cQRbHusnqA6Bv5pK-1
+        #   type: external code
+        # - name: "Download: Ghibli Starter Files"
+        #   path: /assets/files/ghibli-files.zip
+        #   type: download 
+        # - name: "Download: Ghibli HTML Files ONLY"
+        #   path: /assets/files/ghibli-html-files.zip
+        #   type: download
+        # - name: Final Ghibli Site
+        #   path: /demos/ghibli/
+        #   type: code 
+  - week_number: 11
+    classes:
+      - topics: Responsive Design
+        due:
+        - "[Assignment #6 – Page Layout](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/06.html)" 
+        - "Chapter 17: Responsive Web Design" 
+      #   files:
+      #   - name: ResponsiveDesign_Day01.pdf
+      #     path: /assets/slides/10_ResponsiveDesign_Day1.pdf
+      #     type: slides 
+      #   - name: Units of Length Practice
+      #     path: /demos/rem/index.html
+      #     type: code
+      #   - name: Basic Media Queries
+      #     path: /demos/media-query/index.html
+      #     type: code  
+      #   - name: "Download: Final Ghibli Website (HTML + CSS)"
+      #     path: /assets/files/ghibli-html-css.zip
+      #     type: download   
+      - topics: Responsive Design
+        due:
+        - "<a href='https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images'>MDN web docs: Responsive images</a>"
+        files:
+        # - name: ResponsiveDesign_Day02.pdf
+        #   path: /assets/slides/10_ResponsiveDesign_Day2.pdf
+        #   type: slides
+        # - name: Responsive Raster Images
+        #   path: /demos/responsive-images/index.html
+        #   type: code
+        # - name: "Download: Rangefinder Camera Files"
+        #   path: /assets/files/camera.zip
+        #   type: download
+        # - name: Final Responsive Rangefinder Website
+        #   path: /demos/camera/index.html
+        #   type: code             
+  - week_number: 12
+    classes:
+      - topics: Javascript
+        due: 
+        - "[Assignment #7 – Responsive Design](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/07.html)" 
+        - "Chapter 21: Introduction to JavaScript"
+        files:
+        # - name: Javascript_Day01.pdf
+        #   path: /assets/slides/11_Javascript_Day1.pdf
+        #   type: slides
+        # - name: "Download: Javascript Day 1 Files"
+        #   path: /assets/files/javascript-day1.zip
+        #   type: download
+        # - name: "Greeting by time of day"
+        #   path: /demos/javascript-day1/greeting/
+        #   type: code  
+        # - name: "JavaScript basics"
+        #   path: /demos/javascript-day1/basics/
+        #   type: code  
+        # - name: "Class today? [Conditionals]"
+        #   path: /demos/javascript-day1/conditionals/
+        #   type: code        
+      - topics: Javascript
+        due:
+        - "Chapter 22: Using JavaScript" 
+        files:
+        # - name: Javascript_Day02.pdf
+        #   path: /assets/slides/11_Javascript_Day2.pdf
+        #   type: slides
+        # - name: "Download: Javascript Day 2 Files"
+        #   path: /assets/files/javascript-day2.zip
+        #   type: download
+        # - name: "Day or Night"
+        #   path: /demos/javascript-day2/day-or-night/
+        #   type: code
+        # - name: "Changing Text and HTML Content"
+        #   path: /demos/javascript-day2/text-overwrite/
+        #   type: code
+        # - name: "Flip a Coin"
+        #   path: /demos/javascript-day2/flip-a-coin/
+        #   type: code      
+  - week_number: 13
+    classes:
+      - topics: Javascript
+        due: 
+        - "<a href='https://www.w3schools.com/jsref/dom_obj_event.asp'>W3: HTML DOM Events</a>"
+        - "<a href='https://www.w3schools.com/css/css3_transitions.asp'>W3: CSS Transitions</a>"
+        files:
+        # - name: Javascript_Day03.pdf
+        #   path: /assets/slides/11_Javascript_Day3.pdf
+        #   type: slides
+        # - name: "Download: Javascript Day 3 Files"
+        #   path: /assets/files/javascript-day3.zip
+        #   type: download
+        # - name: "Flip a Coin – Functions + Event Listeners"
+        #   path: /demos/javascript-day3/flip-a-coin/
+        #   type: code
+        # - name: "Airports"
+        #   path: /demos/javascript-day3/airports/
+        #   type: code
+        # - name: "CSS Transitions"
+        #   path: /demos/javascript-day3/css-transitions/
+        #   type: code
+        # - name: "To Do List"
+        #   path: /demos/javascript-day3/to-do-list/
+        #   type: code      
+      - topics: Forms
+        due:
+        - "[Assignment #8 – Javascript](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/08.html)" 
+        - "Chapter 9: Forms"
+        - "<a href='https://formspree.io/'>Formspree</a>"
+        - "<a href='https://www.w3schools.com/html/html_form_input_types.asp'>W3: Input Types</a>"
+        files:
+      #   - name: Forms.pdf
+      #     path: /assets/slides/12_Forms.pdf
+      #     type: slides
+      #   - name: Types of Inputs
+      #     path: /demos/form/input-types.html
+      #     type: code
+      #   - name: "Download: Form File"
+      #     path: /demos/form/index.html
+      #     type: download
+      #   - name: Final Form Website
+      #     path: /demos/form/
+      #     type: code
+  - week_number: 14
+    classes:     
+      - topics: Web Audio + Video
+        due:
+        - "Chapter 10: Embedded Media"
+        - "<a href='http://www.w3schools.com/html/html5_audio.asp'>HTML Audio</a>"
+        - "<a href='http://www.w3schools.com/html/html5_video.asp'>HTML Video</a>" 
+        - "<a href='https://www.audacityteam.org/'>Audacity open source sound editor</a>"
+        - "<a href='https://handbrake.fr/'>HandBrake open source video transcoder</a>" 
+      #   files:
+      #   - name: AudioVideo.pdf
+      #     path: /assets/slides/13_AudioVideo.pdf
+      #     type: slides 
+      #   - name: "Download: Audio Video Files"
+      #     path: /assets/files/audio-video.zip
+      #     type: download
+      #   - name: HTML Audio, Video, iframe
+      #     path: /demos/audio-video/index.html
+      #     type: code
+      #   - name: Custom Video Player
+      #     path: /demos/audio-video/video-player.html
+      #     type: code 
+      #   - name: Mario Soundboard
+      #     path: /demos/audio-video/mario-sounds.html
+      #     type: code  
+      - topics: Version Control
+        due:
+        - "Chapter 20: Modern Web Development Tools"
+        - "<a href='https://github.com/'>Create a Github account<a>"
+        - "<a href='https://desktop.github.com/'>Github Desktop<a>"
+        - "<a href='https://github.com/octocat/Spoon-Knife'> Fork Spoon-Knife Repo </a>"
+        - "<a href='https://www.markdownguide.org/basic-syntax/.'> Markdown Guide </a>"
+        files:
+        # - name: VersionControl.pdf
+        #   path: /assets/slides/14_VersionControl.pdf
+        #   type: slides
+        # - name: "Download: Github Practice Files"
+        #   path: /assets/files/github-practice.zip
+        #   type: download 
+        # - name: NYC Website Repository
+        #   path: https://github.com/emilydidthis/nyc-website
+        #   type: external code
+        # - name: Airport Repository
+        #   path: https://github.com/emilydidthis/Airports
+        #   type: external code
+  - week_number: 15
+    classes:
+      - topics: Web Design Workshop
+        due: 
+        files:
+        # - name: Workshop-FinalExamInfo.pdf
+        #   path: /assets/slides/15_Workshop_FinalExamInfo.pdf
+        #   type: slides
+      - topics: Web Hosting + Domain Names
+        due:
+        - "[Assignment #9 – Final Project](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/06.html)" 
+        # - <a href="https://pages.github.com/">GitHub Pages</a>
+        # - <a href="https://cargo.site/">Cargo</a>
+        # - <a href="https://glitch.com/">Glitch</a>
+        # - <a href="https://www.pair.com/">Pair Networks</a>
+        # - <a href="https://reclaimhosting.com/">Reclaim Hosting</a>
+        # - <a href="https://analytics.google.com/">Google Analytics</a>
+        files:
+        # - name: WebHostingDomains.pdf
+        #   path: /assets/slides/16_WebHostingDomains.pdf
+        #   type: slides
+        # - name: "Practice Final"
+        #   path: /assets/files/web-mock-final-fall2023.pdf
+        #   type: slides
+        # - name: "Practice Final — ANSWERS"
+        #   path: /assets/files/web-mock-final-fall2023-ANSWERS.pdf
+        #   type: slides
+  - week_number: 16
+    classes:    
+      - topics: Review
+        due: 
+        files:
+        # - name: FinalReviewAgenda.pdf
+        #   path: /assets/slides/17_FinalReview.pdf
+        #   type: slides 
+        # - name: "Download: Review Site Files"
+        #   path: /assets/files/final-review.zip
+        #   type: download
+  - week_number: 17
+    classes:    
+      - topics: Final Exam
+        due: 
+        files:
+        # - name: FinalReviewAgenda.pdf
+        #   path: /assets/slides/17_FinalReview.pdf
+        #   type: slides 
+        # - name: "Download: Review Site Files"
+        #   path: /assets/files/final-review.zip
+        #   type: download          
