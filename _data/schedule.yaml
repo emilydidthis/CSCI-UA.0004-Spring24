@@ -6,9 +6,12 @@ schedule:
         due:
         - "Nothing"
         files:
-        # - name: what-is-the-internet.pdf
-        #   path: /assets/slides/01_Website-Internet.pdf
-        #   type: slides
+        - name: what-is-the-internet.pdf
+          path: /assets/slides/01_Website-Internet.pdf
+          type: slides
+        - name: "Download: Class Website Files"
+          path: /assets/files/class-website.zip
+          type: download
       - topics: Unix
         due:
         - "Ed Lesson: Basic Unix Commands"

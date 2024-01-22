@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+strong {
+  font-weight: 600;
+}
+
+h1 {
+  font-family: IBM Plex Sans;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+h2, h3 {
+  font-size: 16px;
+  padding-bottom: 5px;
+  padding-left: 15px; /* creates seamless line between h2 and p (versus using margin) */
+}
+
+h2 {
+  margin-top: 30px;
+  border-left: 2px solid #1d97b0;
+}
+
+h2 ~ ol {
+  border-left: 2px solid #1d97b0;
+  padding-left: 35px;
+}
+
+h3 {
+  padding-bottom: 0px;
+}
+
+h2 ~ p { /* General sibling combinator */
+  border-left: 2px solid #1d97b0;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 16px;
+  margin-left: 15px;
+  border-left: 2px solid #72d1e4;
+  /* two shadows to create a 2px left outline */
+  box-shadow: -13px 0 0 #232323, -15px 0 0 #1d97b0;
+}
+
+h3 + p { /* General sibling combinator */
+  border-left: 2px solid #72d1e4;
+  margin-left: 15px;
+  padding-left: 15px;
+  box-shadow: -13px 0 0 #232323, -15px 0 0 #1d97b0;
+}
+
+body {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  margin: 40px;
+  line-height: 125%;
+  background-color: #232323;
+  color: rgb(244, 244, 244);
+}
+
+body a {
+  color: #B99FFF;
+  text-decoration: none;
+}
+
+nav {
+  margin: 20px 0px;
+  display: block;
+  display: flex;
+  /* links hovered over that are not the current nav item */
+}
+nav a {
+  color: rgb(244, 244, 244);
+  font-weight: 500;
+  display: block;
+}
+nav .section-days {
+  font-weight: 500;
+}
+nav a:active {
+  color: #551A8B;
+}
+nav li {
+  display: block;
+}
+nav .nav-section {
+  margin-right: 70px;
+}
+nav span {
+  display: none;
+}
+nav a:not(.nav-current):hover span {
+  display: inline-block;
+}
+
+.nav-current::before {
+  content: "* ";
+}
+
+/* LAYOUT */
+.syllabus, .assignments, .week {
+  display: flex;
+}
+
+.syllabus .column-1 {
+  width: 35%;
+  padding-right: 50px;
+}
+.syllabus .column-2 {
+  width: 55%;
+}
+
+
+@media only screen and (max-width: 900px) {
+  .syllabus, .assignments, .week {
+    flex-direction: column;
+  }
+  .syllabus .column-1, .syllabus .column-2, .assignments .column-1, .assignments .column-2, .week .column-1, .week .column-2 {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .flex-container {
+    flex-direction: column;
+  }
+  body {
+    margin: 20px;
+  }
+  nav {
+    display: block;
+  }
+  nav .nav-section {
+    margin-bottom: 10px;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */
