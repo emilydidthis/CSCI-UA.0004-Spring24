@@ -6,22 +6,11 @@
 layout: default
 title: Intro to Web Design + Computer Principles - Fall 2023
 ---
-<!-- To make sure that new lines appear as new paragraphs, put two spaces at the end of every line -->
-<!-- https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html -->
 
 <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/styles.css">
 
 <div class="syllabus" markdown="1">
 <div class="column-1" markdown="1">
-
-<!-- ## Useful Links
-[Brightspace](https://brightspace.nyu.edu/d2l/home/223178) | 
-[Ed Forum](https://edstem.org/us/courses/23744/discussion/) | 
-[Poll Everywhere](https://pollev.com/emilyzhao) -->
-
-<!-- ## CSCI-UA.0002-011
-Tuesday/Thursday, 4:55-6:10PM  
-Room: GCASL Room 361 -->
 
 ## Professor
 Emily Zhao  
@@ -29,7 +18,7 @@ email: emilyzhao@nyu.edu
 office hours: [calendar link](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpJYlQwSjBaTTlufGRlZmF1bHR8OTk0MWM2MDQ2YzZkMjZhMjFhNzBmYjE2YTU1M2ZjM2I)
 
 ## Common Course Syllabus
-General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [common course syllabus](https://cs.nyu.edu/courses/fall23/CSCI-UA.0004-004/common-syllabus/).
+General information regarding the course, topics covered, required textbooks, course tutors, i6 accounts, etc. can be found on the [common course syllabus]({{ site.common_syllabus }}).
 
 ## Course Description
 There are two primary aspects to this course. The first is learning how to build websites and prepare the various elements that comprise them. The second is understanding concepts behind computers in general and the web in particular. 
@@ -54,19 +43,14 @@ Web hosting and domain names
 
 <div class="column-2" markdown="1">
 ## Class Format
-The class will meet twice a week for one hour and fifteen minutes. Generally, each week will consist of lecture material, class interaction, and a project-based assignment.
-
-## Attendance
-Because this course proceeds sequentially, consistent on-time, in-person attendance is crucial and part of your grade.
-
-Please fill out the [short term absence form](https://docs.google.com/forms/d/e/1FAIpQLScLLgGz71_02_Oq2bVUdqpt1Vr3j3j2Y60HghS7h7DdvVv1zw/viewform) if you plan on missing a class due to religious observance, military commitment or an NYU athletic commitment, as these are considered excused absences as per NYU attendance policy. This is to be done prior to the absence and cannot be filled out retroactively.
+The class will meet twice a week for one hour and fifteen minutes. Typically, each week will include a blend of lecture material, asynchronous video lessons, interactive class discussions, and a project-based assignment. To support your learning and progress on assignments, dedicated workshop time will be provided during class. These workshops offer an opportunity to work collaboratively with your peers and receive direct support from me, the professor.
 
 ## Grading
 Assignments: 40%  
 Final Project: 10%  
 Midterm Exam: 20%  
-Final Exam: 25%  
-Participation + Attendance: 5%
+Final Exam: 20%  
+Attendance + Participation: 10%
 
 ## Exams
 ### Midterm 
@@ -74,7 +58,13 @@ Monday, March 11, 2024 | 12:30PM-1:45PM | In-class
 ### Final
 Monday, May, 13, 2024 | 12:00PM-1:50PM | [Room TBA](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
 
-## i6 Account
+## Attendance + Participation
+Due to the sequential nature of this course, consistent and punctual in-person attendance is essential and will be factored into your grade. If you plan on missing a class due to religious observance, military commitment or an NYU athletic commitment, please fill out the [short term absence form](https://docs.google.com/forms/d/e/1FAIpQLScLLgGz71_02_Oq2bVUdqpt1Vr3j3j2Y60HghS7h7DdvVv1zw/viewform), as these are considered excused absences as per NYU attendance policy. Filling out the form must be done prior to the absence and cannot be filled out retroactively. If you are feeling ill, please notify me the day of via Ed by posting a private thread under the Admin category.
+
+Participation is also a significant part of your grade. The best way to participate, aside from attending class, is to be active on our [Ed Discussion]({{ site.ed }}) board. I expect you to engage at least five times throughout the semester. This can be through asking questions, answering questions from your peers, or responding to the discussion questions I post. 
+
+
+<!-- ## i6 Account
 In addition to your NYU Home Account, we will be using a web hosting account on a Unix server which will be assigned to you automatically based on your enrollment. This is called an [“i6” account](https://cims.nyu.edu/webapps/content/systems/resources/i6) and we will use it to host our websites. Common questions about i6 accounts are answered on this [FAQ page](https://cims.nyu.edu/webapps/content/systems/resources/i6/faq). If you forget your i6 password and would like to reset it, go to [this page](https://cims.nyu.edu/webapps/content/systems/resources/i6/resetpassword) for instructions on how to do so.
 
 ## Computers and File Backup
@@ -93,6 +83,6 @@ ISBN: 978-1-491-96020-2
 4th Edition  
 Ben Frain  
 ISBN: 978-1-803-24271-2  
-</div>
+</div> -->
 
 </div>
