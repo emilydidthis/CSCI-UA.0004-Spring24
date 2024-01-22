@@ -25,7 +25,7 @@ You may turn in an assignment up to 10 days late, with a 5% penalty being applie
 
 ### Grace Days
 
-Sometimes there are unforeseen situations that may impede your progress. As a result you are being given 10 grace days for the entire semester. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don’t waste them simply by procrastinating). You don’t need to do anything special to use these “grace” days - the course graders will keep track of these on your behalf and will apply them to your work as necessary.
+Sometimes there are unforeseen situations that may impede your progress. As a result you are being given 10 grace days for the entire semester. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don’t waste them simply by procrastinating). You don’t need to do anything special to use these “grace” day—the course graders will keep track of these on your behalf and will apply them to your work as necessary. <br><br> You can check how many grace days you have left by visiting Brightspace, going to Grades, and checking the grade item titled "Grace Days Remaining."
 
 
 ## Assignment Feedback
