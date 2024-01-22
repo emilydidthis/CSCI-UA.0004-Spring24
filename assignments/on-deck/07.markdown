@@ -4,7 +4,7 @@ layout: assignments
 title: "Assignment #7"
 due-date: Apr 8
 topic: Responsive Design
-live: true
+live: false
 
 ---
 ## Responsive Design

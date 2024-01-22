@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 brightspace: "https://brightspace.nyu.edu/d2l/home/346407"
 common_syllabus: "https://cs.nyu.edu/courses/spring24/CSCI-UA.0004-004/common-syllabus/"
-ed_discussion: "https://edstem.org/us/courses/54452/discussion/"
+ed: "https://edstem.org/us/courses/54452/"
 
 
 port: 4999

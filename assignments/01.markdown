@@ -11,7 +11,7 @@ category: assignment
 ---
 
 ## Unix
-In this assignment you will create a basic Web page and publish it on a Unix server at i6.cims.nyu.edu/~netid.
+In this assignment you will create a basic Web page and publish it on a Unix server at i6.cims.nyu.edu/~netid. A step by step video walkthrough is available on [Ed Lessons]({{site.ed}}lessons/).
 
 <div class="section-break"><br></div>
 
@@ -116,10 +116,10 @@ Your page should now be accessible to you and the world.
 <div class="section-break"><br></div>
 
 ### Submitting Your Assignment
-Submit the following via NYU Brightspace:
+Submit the following via [Ed]({{site.ed}}):
 
+- The index.html file, uploaded as an attachment to the workspace
 - The URL to your page in the general form of i6.cims.nyu.edu/~netid/
-- The index.html file, uploaded as an attachment 
 
 Please note that you are required to submit files along with URLs in order to receive credit for your work.
 

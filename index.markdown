@@ -48,7 +48,7 @@ Interactivity with JavaScript
 Audio and video  
 Forms  
 Version control  
-Web hosting and domain names  
+Web hosting and domain names
 
 </div>
 
@@ -56,13 +56,23 @@ Web hosting and domain names
 ## Class Format
 The class will meet twice a week for one hour and fifteen minutes. Generally, each week will consist of lecture material, class interaction, and a project-based assignment.
 
+## Attendance
+Because this course proceeds sequentially, consistent on-time, in-person attendance is crucial and part of your grade.
+
+Please fill out the [short term absence form](https://docs.google.com/forms/d/e/1FAIpQLScLLgGz71_02_Oq2bVUdqpt1Vr3j3j2Y60HghS7h7DdvVv1zw/viewform) if you plan on missing a class due to religious observance, military commitment or an NYU athletic commitment, as these are considered excused absences as per NYU attendance policy. This is to be done prior to the absence and cannot be filled out retroactively.
+
+## Grading
+Assignments: 40%  
+Final Project: 10%  
+Midterm Exam: 20%  
+Final Exam: 25%  
+Participation + Attendance: 5%
+
 ## Exams
 ### Midterm 
-Monday, October 23
+Monday, March 11, 2024 | 12:30PM-1:45PM | In-class
 ### Final
-Wednesday, December 20  
-12:00pm-1:15pm  
-[GCASL 383](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
+Monday, May, 13, 2024 | 12:00PM-1:50PM | [Room TBA](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2023&level=UA)
 
 ## i6 Account
 In addition to your NYU Home Account, we will be using a web hosting account on a Unix server which will be assigned to you automatically based on your enrollment. This is called an [“i6” account](https://cims.nyu.edu/webapps/content/systems/resources/i6) and we will use it to host our websites. Common questions about i6 accounts are answered on this [FAQ page](https://cims.nyu.edu/webapps/content/systems/resources/i6/faq). If you forget your i6 password and would like to reset it, go to [this page](https://cims.nyu.edu/webapps/content/systems/resources/i6/resetpassword) for instructions on how to do so.
