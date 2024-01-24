@@ -17,9 +17,9 @@ schedule:
         - "Ed Lesson: Basic Unix Commands"
         - "Chapter 2: How the Web Works"
         files:
-        # - name: what-is-the-internet.pdf
-        #   path: /assets/slides/01_Website-Internet.pdf
-        #   type: slides
+        - name: operating-systems.pdf
+          path: /assets/slides/02_Operating-Systems.pdf
+          type: slides
       
   - week_number: 2
     classes:
