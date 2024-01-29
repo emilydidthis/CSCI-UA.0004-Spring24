@@ -27,9 +27,9 @@ schedule:
         due: 
         - "Chapter 4: Creating a Simple Page"
         files:
-        # - name: operating-systems.pdf
-        #   path: /assets/slides/02_Unix.pdf
-        #   type: slides
+        - name: Unix-HTML.pdf
+          path: /assets/slides/03_Unix-HTML.pdf
+          type: slides
       - topics: HTML
         due: 
         - "Ed Lesson: HTML Basics"
