@@ -36,9 +36,18 @@ schedule:
         - "[Assignment #1 – Unix](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/01.html) (step by step walkthrough on Ed)"
         - "Chapter 5: Marking Up Text"
         files:
-        # - name: operating-systems.pdf
-        #   path: /assets/slides/02_Unix.pdf
-        #   type: slides
+        - name: HTML-FilePaths.pdf
+          path: /assets/slides/04_HTML-FilePaths.pdf
+          type: slides
+        - name: HTML Errors
+          path: /demos/html-errors.html
+          type: code
+        - name: "Download: Street Directory"
+          path: /assets/files/street.zip
+          type: download
+        - name: "Download: NYC files"
+          path: /assets/files/nyc-files.zip
+          type: download
   - week_number: 3
     classes:
       - topics: HTML
