@@ -44,10 +44,10 @@ Finally, create a link from the “HTML” line of your assignments directory to
 <div class="section-break"><br></div>
 
 ### Submitting Your Assignment
-Submit the following via NYU Brightspace. 
+Submit the following via [Ed Lessons](https://edstem.org/us/courses/54452/lessons/91602/slides/506395). 
 
 - The URL to your pages in the general form of i6.cims.nyu.edu/~netid/
-- A compressed archive containing all the files of your new website
+- A directory containing all the files of your new website
 
 Please note that you are required to submit files along with URLs in order to receive credit for your work.
 
