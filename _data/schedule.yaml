@@ -61,6 +61,9 @@ schedule:
         - name: "Download: NYC HTML Files"
           path: /demos-working/nyc-website-html-starting.zip
           type: download
+        - name: NYC Site – Final HTML
+          path: /demos-completed/nyc-website-html/
+          type: code
       - topics: CSS
         due:
         - "Ed Lesson: CSS Basics"
