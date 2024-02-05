@@ -40,12 +40,12 @@ schedule:
           path: /assets/slides/04_HTML-FilePaths.pdf
           type: slides
         - name: HTML Errors
-          path: /demos/html-errors-answers.html
+          path: /demos-completed/html-errors.html
           type: code
         - name: "Download: Street Directory"
           path: /assets/files/street.zip
           type: download
-        - name: "Download: NYC files"
+        - name: "Download: NYC Starter files"
           path: /assets/files/nyc-files.zip
           type: download
   - week_number: 3
@@ -55,12 +55,12 @@ schedule:
         - "Chapter 6: Adding Links"
         - "Chapter 7: Adding Images"
         files:
-        # - name: HTML_day-01.pdf
-        #   path: /assets/slides/03_HTML_Day1.pdf
-        #   type: slides
-        # - name: Basic HTML Site
-        #   path: /demos/basic-html/
-        #   type: code
+        - name: HTML_workshop.pdf
+          path: /assets/slides/05_HTML-Workshop.pdf
+          type: slides
+        - name: "Download: NYC HTML Files"
+          path: /demos-working/nyc-website-html-starting.zip
+          type: download
       - topics: CSS
         due:
         - "Ed Lesson: CSS Basics"
