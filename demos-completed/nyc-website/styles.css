@@ -1,0 +1,57 @@
+body {
+    background-color: white;
+    background-image: url("../images/nyc-seal.png");
+    background-size: 125px 125px; /* width, height */
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+h1, h2, h3, h4, h5, h6, th {
+    color: #2d2d2d; /* dark gray */
+    font-family: Helvetica, sans-serif; /* with fallback font category */
+    font-size: 1.3em; /* ems are relative font size */
+}
+
+.title { font-size: 1.7em; }
+
+.nyc { text-transform: uppercase; }
+
+p, ul, ol, td {
+    color: #2d2d2d; /* dark gray */
+    font-family: Georgia, serif; /* with fallback font category */
+    font-size: 1em;
+    line-height: 1.4em; /* aka "leading" */
+}
+
+
+#credit {
+    font-size: 0.7em;
+    text-align: center;
+}
+
+a:link, a:visited {
+    color: black;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: black;
+    background: orange;
+}
+
+a:active { text-decoration: none; }
+
+a.heading { text-decoration: none; }
+
+a.heading:hover { background-color: orange; }
+
+a.heading:active { background-color: lightgray; }
+
+table { width: 100%; }
+
+th { height: 2.8em; }
+
+.even { background-color: lightgray; }
+
+.odd { background-color: white; }
