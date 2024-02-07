@@ -72,7 +72,7 @@ schedule:
         - "Chapter 12: Formatting Text"
         files:
         - name: CSS-Day01.pdf
-          path: /assets/slides/06_CSS-Day01.pdf
+          path: /assets/slides/06_CSS-Day1.pdf
           type: slides
         # - name: "NYC Website – HTML"
         #   path: /demos/nyc-website/html-only/
