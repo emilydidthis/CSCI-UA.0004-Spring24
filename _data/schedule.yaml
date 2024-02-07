@@ -75,7 +75,7 @@ schedule:
           path: /assets/slides/06_CSS-Day1.pdf
           type: slides
         - name: "NYC Website – CSS"
-          path: /demos-completed/nyc-website/html-only/
+          path: /demos-completed/nyc-website-css/
           type: code
         # - name: "Download: NYC files"
         #   path: /assets/files/nyc-files.zip
