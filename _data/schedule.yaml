@@ -46,7 +46,7 @@ schedule:
           path: /assets/files/street.zip
           type: download
         - name: "Download: NYC Starter files"
-          path: /assets/files/nyc-files.zip
+          path: /assets/files/nyc-starter-files.zip
           type: download
   - week_number: 3
     classes:
@@ -59,7 +59,7 @@ schedule:
           path: /assets/slides/05_HTML-Workshop.pdf
           type: slides
         - name: "Download: NYC HTML Files"
-          path: /demos-working/nyc-website-html-starting.zip
+          path: /files/nyc-website-html-starting.zip
           type: download
         - name: NYC Site – Final HTML
           path: /demos-completed/nyc-website-html/
@@ -68,15 +68,15 @@ schedule:
         due:
         - "Ed Lesson: CSS Basics"
         - "[Assignment #2 – HTML](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/02.html)"
-        - "Chapter 11: Introducing Cascading Style Sheets"
+        - "Chapter 11: Introducing Cascadingx Style Sheets"
         - "Chapter 12: Formatting Text"
         files:
         - name: CSS-Day01.pdf
           path: /assets/slides/06_CSS-Day1.pdf
           type: slides
-        # - name: "NYC Website – HTML"
-        #   path: /demos/nyc-website/html-only/
-        #   type: code
+        - name: "NYC Website – CSS"
+          path: /demos-completed/nyc-website/html-only/
+          type: code
         # - name: "Download: NYC files"
         #   path: /assets/files/nyc-files.zip
         #   type: download
