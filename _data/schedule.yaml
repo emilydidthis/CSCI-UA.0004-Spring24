@@ -94,6 +94,9 @@ schedule:
         - name: "Download: `nyc-seal.png`"
           path: /demos-completed/nyc-website-css/images/nyc-seal.png
           type: download
+        - name: "NYC Website – CSS Day 2"
+          path: /demos-completed/nyc-website-css/
+          type: code
       - topics: CSS
         due:
         files:
