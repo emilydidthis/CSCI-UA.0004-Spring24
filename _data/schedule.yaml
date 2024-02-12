@@ -89,7 +89,7 @@ schedule:
           path: /assets/slides/07_CSS-Day02.pdf
           type: slides
         - name: "Download: NYC CSS Day2 Files"
-          path: /files/nyc-website-css-day2-starting.zip
+          path: /files/nyc-website-css-starting-day2.zip
           type: download
         - name: "Download: `nyc-seal.png`"
           path: /demos-completed/nyc-website-css/images/nyc-seal.png
