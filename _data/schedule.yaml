@@ -77,9 +77,6 @@ schedule:
         - name: "NYC Website – CSS"
           path: /demos-completed/nyc-website-css/
           type: code
-        # - name: "Download: NYC files"
-        #   path: /assets/files/nyc-files.zip
-        #   type: download
   - week_number: 4
     classes:
       - topics: CSS
@@ -88,19 +85,17 @@ schedule:
         - "Chapter 13: Colors and Backgrounds"
         - "Chapter 14: Thinking Inside the Box"
         files:
-        # - name: CSS_day-01.pdf
-        #   path: /assets/slides/04_CSS_Day1.pdf
-        #   type: slides
-        # - name: HTML Errors
-        #   path: /demos/errors.html
-        #   type: code
-        # - name: "NYC Website - CSS"
-        #   path: /demos/nyc-website/
-        #   type: code
+        - name: CSS-Day02.pdf
+          path: /assets/slides/07_CSS-Day02.pdf
+          type: slides
+        - name: "Download: NYC CSS Day2 Files"
+          path: /files/nyc-website-css-day2-starting.zip
+          type: download
+        - name: "Download: `nyc-seal.png`"
+          path: /demos-completed/nyc-website-css/images/nyc-seal.png
+          type: download
       - topics: CSS
         due:
-        - "Ed Lesson: CSS Positioning"
-        - "Chapter 15: Floating and Positioning"
         files:
         # - name: Paths_Review.pdf
         #   path: /assets/slides/04_Paths_Review.pdf
@@ -123,7 +118,8 @@ schedule:
       - topics: Raster Graphics
         due: 
         - "[Assignment #3 - CSS](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/03.html)"
-        - "Chapter 23: Web Image Basics"
+        - "Ed Lesson: CSS Positioning"
+        - "Chapter 15: Floating and Positioning"
         files:
         # - name: CSS_day-02.pdf
         #   path: /assets/slides/04_CSS_Day2.pdf 
@@ -145,6 +141,7 @@ schedule:
       - topics: Raster Graphics
         due:
         - "Ed Lessons: Photoshop + GIMP"
+        - "Chapter 23: Web Image Basics"
         - "Chapter 24: Image Asset Production"
         # - <a href="https://youtu.be/_L_MMU22bAw?si=yNP4I4ZggVMFo9lm">GIMP in Less Than 10 Minutes</a>
         # - <a href="https://youtu.be/r1mwj8AH98Y?si=MfLS0Ja3HkLozV1x">Photoshop Tutorial for Beginners</a> 
