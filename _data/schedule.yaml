@@ -104,18 +104,10 @@ schedule:
         - name: Box Model + FlexBox Review Site
           path: /demos-completed/box-flex-practice/
           type: code
-        # - name: Box Model
-        #   path: /demos/box-model/
-        #   type: code
-        # - name: Website with Links
-        #   path: /demos/link-reference/
-        #   type: code
-        # - name: "Download: Root Practice Folder"
-        #   path: /assets/files/root.zip
-        #   type: download
-        # - name: "Download: NYC Website - CSS File"
-        #   path: /assets/files/main.css
-        #   type: download
+        - name: NYC Site – CSS Day 3
+          path: /demos-completed/nyc-website-css/
+          type: code
+
   - week_number: 5
     classes:
       - topics: "*President's Day*"
