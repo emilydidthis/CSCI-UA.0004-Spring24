@@ -122,6 +122,9 @@ schedule:
         - name: Canal image in four file formats
           path: /demos-completed/images-for-web/
           type: code
+        - name: "Download: Demo Images"
+          path: /files/images-for-raster-graphics.zip/
+          type: download
         - name: Adobe Photoshop Free Trial
           path: https://www.adobe.com/products/photoshop/free-trial-download.html
           type: external code
