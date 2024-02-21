@@ -4,7 +4,7 @@ layout: assignments
 title: "Assignment #4"
 due-date: Feb 28
 topic: Raster Graphics
-live: false
+live: true
 
 ---
 
@@ -38,7 +38,7 @@ Create a link from the “Raster Graphics” line of your [assignments directory
 <div class="section-break"><br></div>
 
 ### Submitting Your Assignment
-Submit the following via [NYU Brightspace]({{ site.brightspace }}).
+Submit the following via [Ed]({{ site.ed }}).
 
 - The URL to your new web page that displays the image on i6
 - A compressed archive containing your PNG files, JPG file, HTML, and CSS
