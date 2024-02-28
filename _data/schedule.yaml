@@ -162,9 +162,9 @@ schedule:
         # - <a href="https://www.youtube.com/watch?v=lOzSiOIipSM">5 Ways To Remove A Background with GIMP</a>
         # - <a href="https://www.youtube.com/watch?v=WTOFpAfXsSY">How to resize an image in GIMP</a>  
         files:
-        # - name: RasterGraphics_Day2.pdf
-        #   path: /assets/slides/05_RasterGraphics_Day2.pdf 
-        #   type: slides
+        - name: VectorGraphics.pdf
+          path: /assets/slides/11_VectorGraphics_Day1.pdf
+          type: slides
         # - name: "Download: Moon Skater Files"
         #   path: /assets/files/moon-skater.zip
         #   type: download
