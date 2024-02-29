@@ -4,7 +4,7 @@ layout: assignments
 title: "Assignment #5"
 due-date: March 6
 topic: Vector Graphics
-live: false
+live: true
 
 ---
 
@@ -35,7 +35,7 @@ Your project should be available at: i6.cims.nyu.edu/~netid/.
 <div class="section-break"><br></div>
 
 ### Submitting Your Assignment
-Submit the following via [NYU Brightspace]({{ site.brightspace }}). 
+Submit the following via [Ed]({{ site.ed }}). 
 
 - The URL to your web page that displays the SVG image on i6
 - A compressed archive of your website files (including the HTML with SVG and CSS)  
