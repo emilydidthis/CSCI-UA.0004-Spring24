@@ -179,19 +179,12 @@ schedule:
     classes:
       - topics: Vector Graphics
         due:
-        - "Ed Lessons: Illustrator + Inkscape" 
-       
-
+        - <a href="https://www.youtube.com/watch?v=3NBKRywEbNs">Adobe Illustrator for Beginners (10 min)</a>
+        - <a href="https://www.youtube.com/watch?v=-_KJZPOYBeA">InkScape Tutorial for Beginners (11 min)</a>
         files:
-        # - name: VectorGraphics_Day1.pdf
-        #   path: /assets/slides/06_VectorGraphics_Day1.pdf 
-        #   type: slides
-        # - name: XML Document
-        #   path: /demos/svg-practice/cities.xml
-        #   type: code
-        # - name: SVG Exercise 1
-        #   path: /demos/svg-practice/example1.html
-        #   type: code
+        - name: All the ways you can embed SVGs
+          path: /demos-completed/svg-practice/embed-svgs.html
+          type: code
         # - name: SVG Exercise 2
         #   path: /demos/svg-practice/example2.html
         #   type: code
