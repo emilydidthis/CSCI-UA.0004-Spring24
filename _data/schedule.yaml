@@ -185,9 +185,9 @@ schedule:
         - name: All the ways you can embed SVGs
           path: /demos-completed/svg-practice/embed-svgs.html
           type: code
-        # - name: SVG Exercise 2
-        #   path: /demos/svg-practice/example2.html
-        #   type: code
+        - name: Midterm Topics
+          path: "https://docs.google.com/document/d/1Oavq18khS9szbJ38i6SAMFXLPDmB3xBNQyx6vwgmq9c/edit?usp=sharing"
+          type: external code
         # - name: SVG Exercise Links
         #   path: /demos/svg-practice/
         #   type: code          
