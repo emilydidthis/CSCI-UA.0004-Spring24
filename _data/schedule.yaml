@@ -196,9 +196,9 @@ schedule:
         due:
         - "[Assignment #5 – Vector Graphics](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/05.html)"
         files:
-        # - name: midterm-review-slides.pdf
-        #   path: /assets/slides/07_MidtermReview.pdf
-        #   type: slides
+        - name: midterm-review-slides.pdf
+          path: /assets/slides/13_MidtermReview.pdf
+          type: slides
         - name: "Download: Midterm Website Files"
           path: /assets/files/midterm_review.zip
           type: download
