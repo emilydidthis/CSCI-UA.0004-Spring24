@@ -224,9 +224,9 @@ schedule:
         due:
         - "Chapter 3: Some Big Concepts You Need to Know" 
         files:
-        # - name: Accessibility.pdf
-        #   path: /assets/slides/08_Accessibility.pdf
-        #   type: slides   
+        - name: accessibility.pdf
+          path: /assets/slides/14_Accessibility.pdf
+          type: slides   
   - week_number: 9
     classes:
       - topics: "*Spring Break*"
