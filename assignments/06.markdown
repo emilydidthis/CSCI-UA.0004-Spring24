@@ -4,7 +4,7 @@ layout: assignments
 title: "Assignment #6"
 due-date: Apr 1
 topic: Page Layout
-live: false
+live: true
 
 ---
 
@@ -40,7 +40,7 @@ Create a link from the “Website Layout” line of your assignments directory t
 <div class="section-break"><br></div>
 
 ### Submitting Your Assignment
-Submit the following via [NYU Brightspace]({{ site.brightspace }}).
+Submit the following via [NYU Ed]({{ site.ed }}).
 
 - The URL to the home page of your new website on i6
 - The text content of your website—copied and pasted beneath the URL in the assignment text box
