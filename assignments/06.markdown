@@ -44,7 +44,7 @@ Submit the following via [NYU Ed]({{ site.ed }}).
 
 - The URL to the home page of your new website on i6
 - The text content of your website—copied and pasted beneath the URL in the assignment text box
-- A compressed archive containing all the files of your new website
+- All the files of your new website
 
 Please note that you are required to submit files along with URLs in order to receive credit for your work.
 
