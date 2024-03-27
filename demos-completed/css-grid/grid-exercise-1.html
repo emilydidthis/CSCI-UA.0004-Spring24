@@ -4,8 +4,9 @@
   <head>
     <meta charset="utf-8">
     <title>Grid Exercise #1</title>
-    <style>   
-      @font-face{
+    <style>
+
+      @font-face {
         font-family: "PlaypenSans";
         src: url("PlaypenSans-VariableFont_wght.ttf");
         font-weight: normal;
@@ -21,39 +22,33 @@
 
       .wrapper {
         display: grid;
-        
         /* grid-template-columns: 100px 100px 100px; */
-        /* grid-template-columns: repeat(5, 50px); */
-
-        /* fr fractional unit */
-        /* grid-template-columns: 1fr 1fr 1fr; */
+        /* grid-template-columns: repeat(3, 100px); */
+        /* fr is fractional unit */
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: 100px 100px;
         gap: 10px;
-
-        /* placing grid items */
-        grid-template-areas:
-          "b c d"
-          "e f a";
-        
+        grid-template-areas: 
+          "a c d"
+          "e f b";
         font-family: "PlaypenSans";
       }
 
-      .a {grid-area: a;}
-      .b {grid-area: b;}
-      .c {grid-area: c;}
-      .d {grid-area: d;}
-      .e {grid-area: e;}
-      .f {grid-area: f;}
-
+      /* giving nicknames to the classes*/
+      .a { grid-area: a; }
+      .b { grid-area: b; }
+      .c { grid-area: c; }
+      .d { grid-area: d; }
+      .e { grid-area: e; }
+      .f { grid-area: f; }
     </style>
   </head>
 
   <body>
     <div class="wrapper">
-      <div class="a">A</div>
-      <div class="b">B</div>
-      <div class="c">C</div>
+      <div class="a">Apple</div>
+      <div class="b">Banana</div>
+      <div class="c">Carrot</div>
       <div class="d">D</div>
       <div class="e">E</div>
       <div class="f">F</div>
