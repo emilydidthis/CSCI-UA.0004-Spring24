@@ -271,9 +271,9 @@ schedule:
         - "Chapter 17: Responsive Web Design"
         - "<a href='https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images'>MDN web docs: Responsive images</a>" 
         files:
-      #   - name: ResponsiveDesign_Day01.pdf
-      #     path: /assets/slides/10_ResponsiveDesign_Day1.pdf
-      #     type: slides 
+        - name: responsive-design.pdf
+          path: /assets/slides/17_ResponsiveDesign.pdf
+          type: slides 
         - name: Basic Media Queries
           path: /demos-completed/media-query/index.html
           type: code 
