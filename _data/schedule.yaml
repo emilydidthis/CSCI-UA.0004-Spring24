@@ -280,9 +280,15 @@ schedule:
         - name: Responsive Raster Images
           path: /demos-completed/responsive-images/index.html
           type: code 
+        - name: NYC Site – Responsive
+          path: /demos-completed/nyc-website-css/index.html
+          type: code 
         - name: "Download: Responsive Grid Files"
           path: /assets/files/responsive-grid.zip
-          type: download   
+          type: download
+        - name: Responsive Grid
+          path: /demos-completed/responsive-grid/index.html
+          type: code    
       - topics: Responsive Design (Workshop)
         due:
         files:

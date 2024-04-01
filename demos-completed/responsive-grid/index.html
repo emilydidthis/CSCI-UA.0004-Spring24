@@ -20,6 +20,7 @@
 		color: #444;
 	}
 
+    /* DESKTOP FIRST */
     .wrapper {
         display: grid;
         grid-gap: 1em;
@@ -29,6 +30,32 @@
         "header  header  header"
         "sidebar content sidebar2"
         "footer  footer  footer";
+    }
+
+    /* Tablets */
+    @media (max-width: 768px){
+        .wrapper {
+            grid-template-columns: 30% auto;
+            grid-template-areas:
+            "header header"
+            "sidebar content"
+            "sidebar2 sidebar2"
+            "footer footer"
+        }
+    }
+
+    /* Mobile */
+    @media (max-width: 480px){
+        .wrapper {
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas:
+            "header"
+            "sidebar"
+            "content"
+            "sidebar2"
+            "footer"
+        }
     }
 
 	.box {
