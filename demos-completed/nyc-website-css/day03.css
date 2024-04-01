@@ -112,6 +112,8 @@ main { /* got rid of the div and made main exclude my table */
 article, section {
     width: calc(92% / 3); /* 8% of spacing for justify-content to put between the children */
 }
+    
+
 
 /* --- CSS Day 03 Styles ---  */
 

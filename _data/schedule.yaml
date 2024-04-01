@@ -259,54 +259,34 @@ schedule:
         - name: CSS Grid Exercise 2
           path: /demos-completed/css-grid/grid-exercise-2.html
           type: code
-      - topics: Page Layout
+      - topics: Page Layout (Workshop)
         due:
         files:
-      
-        # - name: "Download: Ghibli Starter Files"
-        #   path: /assets/files/ghibli-files.zip
-        #   type: download 
-        # - name: "Download: Ghibli HTML Files ONLY"
-        #   path: /assets/files/ghibli-html-files.zip
-        #   type: download
-        # - name: Final Ghibli Site
-        #   path: /demos/ghibli/
-        #   type: code 
+
   - week_number: 11
     classes:
       - topics: Responsive Design
         due:
         - "[Assignment #6 – Page Layout](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/06.html)" 
-        - "Chapter 17: Responsive Web Design" 
-      #   files:
+        - "Chapter 17: Responsive Web Design"
+        - "<a href='https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images'>MDN web docs: Responsive images</a>" 
+        files:
       #   - name: ResponsiveDesign_Day01.pdf
       #     path: /assets/slides/10_ResponsiveDesign_Day1.pdf
       #     type: slides 
-      #   - name: Units of Length Practice
-      #     path: /demos/rem/index.html
-      #     type: code
-      #   - name: Basic Media Queries
-      #     path: /demos/media-query/index.html
-      #     type: code  
-      #   - name: "Download: Final Ghibli Website (HTML + CSS)"
-      #     path: /assets/files/ghibli-html-css.zip
-      #     type: download   
-      - topics: Responsive Design
+        - name: Basic Media Queries
+          path: /demos-completed/media-query/index.html
+          type: code 
+        - name: Responsive Raster Images
+          path: /demos-completed/responsive-images/index.html
+          type: code 
+        - name: "Download: Responsive Grid Files"
+          path: /assets/files/responsive-grid.zip
+          type: download   
+      - topics: Responsive Design (Workshop)
         due:
-        - "<a href='https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images'>MDN web docs: Responsive images</a>"
         files:
-        # - name: ResponsiveDesign_Day02.pdf
-        #   path: /assets/slides/10_ResponsiveDesign_Day2.pdf
-        #   type: slides
-        # - name: Responsive Raster Images
-        #   path: /demos/responsive-images/index.html
-        #   type: code
-        # - name: "Download: Rangefinder Camera Files"
-        #   path: /assets/files/camera.zip
-        #   type: download
-        # - name: Final Responsive Rangefinder Website
-        #   path: /demos/camera/index.html
-        #   type: code             
+        
   - week_number: 12
     classes:
       - topics: Javascript

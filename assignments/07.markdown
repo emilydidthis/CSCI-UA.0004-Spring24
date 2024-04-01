@@ -4,7 +4,7 @@ layout: assignments
 title: "Assignment #7"
 due-date: Apr 8
 topic: Responsive Design
-live: false
+live: true
 
 ---
 ## Responsive Design
@@ -43,7 +43,7 @@ Upload your website to the i6 Unix server in its own directory. Test your files 
 <div class="section-break"><br></div>
 
 ### Submitting Your Assignment
-Submit the following via [NYU Brightspace]({{ site.brightspace }}).
+Submit the following via [NYU Ed]({{ site.ed }}).
 
 - The URL to your website on i6
 - A compressed archive containing all the files of your website
