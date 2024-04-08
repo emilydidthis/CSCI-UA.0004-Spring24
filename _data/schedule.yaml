@@ -300,15 +300,15 @@ schedule:
         - "[Assignment #7 – Responsive Design](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/07.html)" 
         - "Chapter 21: Introduction to JavaScript"
         files:
-        # - name: Javascript_Day01.pdf
-        #   path: /assets/slides/11_Javascript_Day1.pdf
-        #   type: slides
-        # - name: "Download: Javascript Day 1 Files"
-        #   path: /assets/files/javascript-day1.zip
-        #   type: download
-        # - name: "Greeting by time of day"
-        #   path: /demos/javascript-day1/greeting/
-        #   type: code  
+        - name: Javascript_Day01.pdf
+          path: /assets/slides/18_Javascript_Day1.pdf
+          type: slides
+        - name: "Download: Javascript Day 1 Files"
+          path: /assets/files/javascript-day1.zip
+          type: download
+        - name: "Greeting by time of day"
+          path: /demos-completed/javascript-day1/greeting/
+          type: code  
         # - name: "JavaScript basics"
         #   path: /demos/javascript-day1/basics/
         #   type: code  
