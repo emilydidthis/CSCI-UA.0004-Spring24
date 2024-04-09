@@ -24,7 +24,7 @@ Integrate media queries into your code with the `@media` rule. This will allow y
 
 `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 
-Having revised your website to begin with a single-column, mobile-optimized layout, media queries can be used to expand the layout to multiple columns for a wider viewing experience. The desktop layout should include two or more columns with the CSS flex or grid layout modules. Structure your HTML code within appropriate sections to position columns alongside each other when appropriate. There should also be a media query for the user’s preferred color scheme (i.e. dark mode).
+Having revised your website to begin with a single-column, mobile-optimized layout, media queries can be used to expand the layout to multiple columns for a wider viewing experience. The desktop layout should include two or more columns with the CSS flex or grid layout modules. Structure your HTML code within appropriate sections to position columns alongside each other when appropriate. There should also be a media query for the [user’s preferred color scheme (i.e. dark mode)](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
 
 <div class="section-break"><br></div>
 
@@ -55,6 +55,6 @@ This assignment is worth 10 points.
 
 - A completely revised version of the previous website, optimized for mobile and desktop devices (3 points)
 - Relative units such as `fr`, `minmax()`, and percentage should be used for most CSS widths (1 point)
-- The viewport should be set on all pages and the CSS should include at least two `@media` queries: one to optimize the layout for different browser widths (3 points)
+- The viewport should be set on all pages and the CSS should include at least two `@media` queries: one to optimize the layout for different browser widths and one for the [user’s preferred color scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) (3 points)
 - Desktop layout should include two or more columns with the CSS flex or grid layout modules (1 point)
 - Images should be flexible with higher-resolution versions of all raster graphics offered in conjunction with the HTML srcset and sizes attributes (2 points)
