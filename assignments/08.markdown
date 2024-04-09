@@ -4,7 +4,7 @@ layout: assignments
 title: "Assignment #8"
 due-date: Apr 17
 topic: JavaScript
-live: false
+live: true
 
 ---
 
@@ -36,7 +36,7 @@ Upload your website to the i6 Unix server in its own directory. Test your files 
 <div class="section-break"><br></div>
 
 ### Submitting Your Assignment
-Publish your project on the i6 web server and submit the following via [NYU Brightspace]({{ site.brightspace }}).
+Publish your project on the i6 web server and submit the following via [NYU Ed]({{ site.ed }}).
 
 - The URL to your website on i6
 - A compressed archive containing all the files (HTML, CSS, JavaScript, and images) of your web page  
