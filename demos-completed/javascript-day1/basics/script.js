@@ -1,14 +1,17 @@
-/*
-JavaScript Basics
+/* 
+Javascript Basics
 */
 
-/*
-Data Types
-Data types are like parts of speech for a programming language
+// This is a single-line Javascript comment
+
+/* 
+Data types
 */
 
 // Numeric data type
-let academicYear = 2023;
+// let academicYear; // initializing the variable
+// academicYear = 2024; // assignment value to the variable
+let academicYear = 2024; // initialize and assign all on one line
 
 // String
 let student = 'Sophia';
@@ -16,17 +19,18 @@ let student = 'Sophia';
 // Boolean
 let graduating = false;
 
-// Undefined
-let major;
+// Undefined/null
+let major; // undefined
+let address = null; 
 
-// Null
-let address = null;
-
-// Array
+// Array (lists)
 let groceries;
-groceries = ['bread', 'eggs', 'apples', 'lettuce'];
-let fruit = groceries[2];
-let groceryList = groceries.length;
+groceries = ["bread", "eggs", "apples", "lettuce"]; // array
+console.log(groceries);
+// arrays in JS are 0-indexed
+let fruit = groceries[2]; // fruit is assigned to "apples" // string
+let groceryList = groceries.length; // 4 // integer
+
 
 /*
 JavaScript Operators
@@ -40,6 +44,7 @@ JavaScript Operators
 
 // String operators
 // +
+console.log("hello" + "there"); // creates a new string 'hellothere'
 
 // Comparison operators compare values and return true or false
 // ==, ===, !=, !==, >, <, >=, <=
@@ -62,3 +67,4 @@ Accessing elements on the page with DOM queries
 // getElementsByClassName('class');
 // getElementsByTagName('tag');
 // querySelectorAll('css-selector');
+
