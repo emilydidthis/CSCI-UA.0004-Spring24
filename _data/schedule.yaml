@@ -328,12 +328,12 @@ schedule:
         # - name: "Day or Night"
         #   path: /demos/javascript-day2/day-or-night/
         #   type: code
-        # - name: "Changing Text and HTML Content"
-        #   path: /demos/javascript-day2/text-overwrite/
-        #   type: code
-        # - name: "Flip a Coin"
-        #   path: /demos/javascript-day2/flip-a-coin/
-        #   type: code
+        - name: "Changing Text and HTML Content"
+          path: /demos-working/javascript-day2/text-overwrite/
+          type: code
+        - name: "Flip a Coin"
+          path: /demos-working/javascript-day2/flip-a-coin/
+          type: code
         - name: "Airports"
           path: /demos-completed/airports/
           type: code
