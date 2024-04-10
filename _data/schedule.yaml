@@ -317,7 +317,9 @@ schedule:
           type: code        
       - topics: Javascript
         due:
-        - "Chapter 22: Using JavaScript" 
+        - "Chapter 22: Using JavaScript"
+        - "<a href='https://www.w3schools.com/jsref/dom_obj_event.asp'>W3: HTML DOM Events</a>"
+        - "<a href='https://www.w3schools.com/css/css3_transitions.asp'>W3: CSS Transitions</a>" 
         files:
         - name: Javascript_Day02.pdf
           path: /assets/slides/21_Javascript_Day2.pdf
@@ -344,8 +346,7 @@ schedule:
     classes:
       - topics: Javascript (Workshop) – No Class!
         due: 
-        - "<a href='https://www.w3schools.com/jsref/dom_obj_event.asp'>W3: HTML DOM Events</a>"
-        - "<a href='https://www.w3schools.com/css/css3_transitions.asp'>W3: CSS Transitions</a>"
+        
         files:
         # - name: Javascript_Day03.pdf
         #   path: /assets/slides/11_Javascript_Day3.pdf
