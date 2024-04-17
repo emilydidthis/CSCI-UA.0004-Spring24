@@ -374,12 +374,9 @@ schedule:
         - name: Types of Inputs
           path: /demos-completed/form/input-types.html
           type: code
-        - name: "Download: Form File"
-          path: /demos-working/forms/forms.html
+        - name: Final Form Website
+          path: /demos-completed/form/index.html
           type: code
-      #   - name: Final Form Website
-      #     path: /demos/form/
-      #     type: code
   - week_number: 14
     classes:     
       - topics: Web Audio + Video
