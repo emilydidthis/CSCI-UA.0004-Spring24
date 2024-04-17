@@ -375,8 +375,8 @@ schedule:
           path: /demos-completed/form/input-types.html
           type: code
         - name: "Download: Form File"
-          path: /demos-working/form/index.html
-          type: download
+          path: /demos-working/forms/forms.html
+          type: code
       #   - name: Final Form Website
       #     path: /demos/form/
       #     type: code
