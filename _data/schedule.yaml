@@ -368,15 +368,15 @@ schedule:
         - "<a href='https://formspree.io/'>Formspree</a>"
         - "<a href='https://www.w3schools.com/html/html_form_input_types.asp'>W3: Input Types</a>"
         files:
-      #   - name: Forms.pdf
-      #     path: /assets/slides/12_Forms.pdf
-      #     type: slides
-      #   - name: Types of Inputs
-      #     path: /demos/form/input-types.html
-      #     type: code
-      #   - name: "Download: Form File"
-      #     path: /demos/form/index.html
-      #     type: download
+        - name: Forms.pdf
+          path: /assets/slides/23_Forms.pdf
+          type: slides
+        - name: Types of Inputs
+          path: /demos-completed/form/input-types.html
+          type: code
+        - name: "Download: Form File"
+          path: /demos-working/form/index.html
+          type: download
       #   - name: Final Form Website
       #     path: /demos/form/
       #     type: code
