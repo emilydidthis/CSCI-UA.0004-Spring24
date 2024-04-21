@@ -386,22 +386,22 @@ schedule:
         - "<a href='http://www.w3schools.com/html/html5_video.asp'>HTML Video</a>" 
         - "<a href='https://www.audacityteam.org/'>Audacity open source sound editor</a>"
         - "<a href='https://handbrake.fr/'>HandBrake open source video transcoder</a>" 
-      #   files:
-      #   - name: AudioVideo.pdf
-      #     path: /assets/slides/13_AudioVideo.pdf
-      #     type: slides 
-      #   - name: "Download: Audio Video Files"
-      #     path: /assets/files/audio-video.zip
-      #     type: download
-      #   - name: HTML Audio, Video, iframe
-      #     path: /demos/audio-video/index.html
-      #     type: code
-      #   - name: Custom Video Player
-      #     path: /demos/audio-video/video-player.html
-      #     type: code 
-      #   - name: Mario Soundboard
-      #     path: /demos/audio-video/mario-sounds.html
-      #     type: code  
+        files:
+        - name: AudioVideo.pdf
+          path: /assets/slides/24_AudioVideo.pdf
+          type: slides 
+        - name: "Download: Audio Video Files"
+          path: /assets/files/audio-video.zip
+          type: download
+        # - name: HTML Audio, Video, iframe
+        #   path: /demos/audio-video/index.html
+        #   type: code
+        # - name: Custom Video Player
+        #   path: /demos/audio-video/video-player.html
+        #   type: code 
+        # - name: Mario Soundboard
+        #   path: /demos/audio-video/mario-sounds.html
+        #   type: code  
       - topics: Version Control
         due:
         - "Chapter 20: Modern Web Development Tools"
