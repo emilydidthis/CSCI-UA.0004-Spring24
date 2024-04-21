@@ -432,7 +432,7 @@ schedule:
         #   type: slides
       - topics: Web Hosting + Domain Names
         due:
-        - "[Assignment #9 – Final Project](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/06.html)" 
+        - "[Assignment #9 – Final Project](https://emilydidthis.github.io/CSCI-UA.0004-Spring24/assignments/09.html)" 
         # - <a href="https://pages.github.com/">GitHub Pages</a>
         # - <a href="https://cargo.site/">Cargo</a>
         # - <a href="https://glitch.com/">Glitch</a>

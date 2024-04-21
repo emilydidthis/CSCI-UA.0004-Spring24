@@ -3,7 +3,7 @@ layout: assignments
 title: "Assignment #9"
 due-date: May 1
 topic: Final Project
-live: false
+live: true
 ---
 
 ## Final Project
@@ -14,7 +14,7 @@ In this assignment you will synthesize your knowledge of web design into a new, 
 ### Wireframing
 Once you’ve decided what your professionally-oriented website will be about, write a paragraph of at least 100 words describing your topic and how it will be presented on the web.
 
-Next, using [Figma](https://www.figma.com/design/), create a page layout that represents the design of your next website. This is an opportunity for you to make design decisions before applying them with code. The layout should indicate the placement of text, images, and navigation. You need not concern yourself with specific content at this stage; instead, focus on the arrangement of compositional elements on the page. You’re welcome to use the same general layout for every page of the site; if you choose to vary the layout for different pages, create a separate wireframe for each. When you have completed your wireframe, export it as a PDF.
+Next, using a wire-framing tool, like [Figma](https://www.figma.com/design/), create a page layout that represents the design of your next website. This is an opportunity for you to make design decisions before applying them with code. The layout should indicate the placement of text, images, and navigation. You need not concern yourself with specific content at this stage; instead, focus on the arrangement of compositional elements on the page. You’re welcome to use the same general layout for every page of the site; if you choose to vary the layout for different pages, create a separate wireframe for each. When you have completed your wireframe, export it as a PDF.
 
 <div class="section-break"><br></div>
 
