@@ -62,7 +62,7 @@ Keep in mind that people access the web in many different ways. Build your pages
 <div class="section-break"><br></div>
 
 ### Submitting Your Assignment
-Publish your project on the i6 web server and submit the following via [NYU Brightspace]({{ site.brightspace }}).
+Publish your project on the i6 web server and submit the following via [NYU Ed]({{ site.ed }}).
 
 - The text description of your topic and website—copied and pasted in the assignment text box
 - PDF file(s) of your wireframe
