@@ -393,15 +393,15 @@ schedule:
         - name: "Download: Audio Video Files"
           path: /assets/files/audio-video.zip
           type: download
-        # - name: HTML Audio, Video, iframe
-        #   path: /demos/audio-video/index.html
-        #   type: code
-        # - name: Custom Video Player
-        #   path: /demos/audio-video/video-player.html
-        #   type: code 
-        # - name: Mario Soundboard
-        #   path: /demos/audio-video/mario-sounds.html
-        #   type: code  
+        - name: HTML Audio, Video, iframe
+          path: /demos-completed/audio-video/index.html
+          type: code
+        - name: Custom Video Player
+          path: /demos-completed/audio-video/video-player.html
+          type: code 
+        - name: Mario Soundboard
+          path: /demos-completed/audio-video/mario-sounds.html
+          type: code  
       - topics: Version Control
         due:
         - "Chapter 20: Modern Web Development Tools"
