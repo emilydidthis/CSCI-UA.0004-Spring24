@@ -416,6 +416,9 @@ schedule:
         - name: "Download: Github Practice Files"
           path: /assets/files/github-practice.zip
           type: download 
+        - name: "Download: NEW Github Practice Files"
+          path: /assets/files/github-2.zip
+          type: download  
         - name: NYC Website Repository
           path: https://github.com/emilydidthis/nyc-website
           type: external code
