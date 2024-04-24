@@ -410,18 +410,15 @@ schedule:
         - "<a href='https://github.com/octocat/Spoon-Knife'> Fork Spoon-Knife Repo </a>"
         - "<a href='https://www.markdownguide.org/basic-syntax/.'> Markdown Guide </a>"
         files:
-        # - name: VersionControl.pdf
-        #   path: /assets/slides/14_VersionControl.pdf
-        #   type: slides
-        # - name: "Download: Github Practice Files"
-        #   path: /assets/files/github-practice.zip
-        #   type: download 
-        # - name: NYC Website Repository
-        #   path: https://github.com/emilydidthis/nyc-website
-        #   type: external code
-        # - name: Airport Repository
-        #   path: https://github.com/emilydidthis/Airports
-        #   type: external code
+        - name: VersionControl.pdf
+          path: /assets/slides/25_VersionControl.pdf
+          type: slides
+        - name: "Download: Github Practice Files"
+          path: /assets/files/github-practice.zip
+          type: download 
+        - name: NYC Website Repository
+          path: https://github.com/emilydidthis/nyc-website
+          type: external code
   - week_number: 15
     classes:
       - topics: Web Design Workshop
