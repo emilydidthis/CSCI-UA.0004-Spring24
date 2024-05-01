@@ -432,22 +432,22 @@ schedule:
         #   type: slides
       - topics: Web Hosting + Domain Names
         due:
-        # - <a href="https://pages.github.com/">GitHub Pages</a>
-        # - <a href="https://cargo.site/">Cargo</a>
-        # - <a href="https://glitch.com/">Glitch</a>
-        # - <a href="https://www.pair.com/">Pair Networks</a>
-        # - <a href="https://reclaimhosting.com/">Reclaim Hosting</a>
-        # - <a href="https://analytics.google.com/">Google Analytics</a>
+        - <a href="https://pages.github.com/">GitHub Pages</a>
+        - <a href="https://cargo.site/">Cargo</a>
+        - <a href="https://glitch.com/">Glitch</a>
+        - <a href="https://www.pair.com/">Pair Networks</a>
+        - <a href="https://reclaimhosting.com/">Reclaim Hosting</a>
+        - <a href="https://analytics.google.com/">Google Analytics</a>
         files:
-        # - name: WebHostingDomains.pdf
-        #   path: /assets/slides/16_WebHostingDomains.pdf
-        #   type: slides
-        # - name: "Practice Final"
-        #   path: /assets/files/web-mock-final-fall2023.pdf
-        #   type: slides
-        # - name: "Practice Final — ANSWERS"
-        #   path: /assets/files/web-mock-final-fall2023-ANSWERS.pdf
-        #   type: slides
+        - name: WebHostingDomains.pdf
+          path: /assets/slides/28_WebHostingDomains.pdf
+          type: slides
+        - name: "Practice Final"
+          path: /assets/files/web-mock-final-sp24.pdf
+          type: slides
+        - name: "Practice Final — ANSWERS"
+          path: /assets/files/web-mock-final-sp24-ANSWERS.pdf
+          type: slides
   - week_number: 16
     classes:    
       - topics: Review
